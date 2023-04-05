@@ -1,9 +1,9 @@
-# Chapter 7 - Tables and for-loops
+# Chapter 7 - Tables and for-loops                          #Tabellen und for-Schleife 
 
 ## Tables
-Tables are basically lists in which we can store values.
+Tables are basically lists in which we can store values.    # Tabellen sind Listen, in denen sich Werte speichern lassen 
 
-You create a table with curly brackets ({ }):
+You create a table with curly brackets ({ }):              # so schreiben wir eine Tabelle 
 
 ```lua
 function love.load()
@@ -14,7 +14,8 @@ end
 
 We just created a table called fruits. Now we can store values inside the table. There are multiple ways to do this.
 
-One way is to put the values inside the curly brackets.
+One way is to put the values inside the curly brackets.    # Wir schreiben eine Tabelle "Fruits" . In dieser Tabelle können wir Werte speichern 
+                                                           #Da gibt es verschiedene Wege .Ein Weg ist Werte in die {} zu setzen 
 
 ```lua
 function love.load()
